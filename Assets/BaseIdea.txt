@@ -1,0 +1,17 @@
+Blacksmith project
+
+Your goal is to create the best weapons in the country.
+
+You start with some gold and materials and basic smithing plans.
+
+When you craft something, it has a quality. The more you specialize in a weapon type, the better the quality will be.
+
+If the quality is superior to green, you can name the object.
+
+You choose which and how much materials you want to use.
+
+The better the materials, the better the weapon will be.
+
+The quality is influenced by time investment and exp
+
+The sell is by auction. When your weapon is finnished, it is to be sold. Then, it will be sold on a random value based on your renoun, quality of the craft and its strength.

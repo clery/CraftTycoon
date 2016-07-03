@@ -1,0 +1,65 @@
+[
+  {
+    "id": 7,
+    "name": "Rock",
+    "description": "Well, that's just some rock. Not sure what you want to do with it.",
+    "ilvl": 1,
+    "rarity": 0,
+    "basePrice": 10,
+    "iconId": 11
+  },
+  {
+    "id": 1,
+    "name": "Copper",
+    "description": "Copper is not a very good weapon material, but it's cheap, and you've got to start with something. Right ?",
+    "ilvl": 1,
+    "rarity": 1,
+    "basePrice": 10,
+    "iconId": 8
+  },
+  {
+    "id": 2,
+    "name": "Iron",
+    "description": "Iron is the most used material amongst blacksmiths. It's not very expensive, and you can craft great weapons from it !",
+    "ilvl": 20,
+    "rarity": 2,
+    "basePrice": 100,
+    "iconId": 3
+  },
+  {
+    "id": 3,
+    "name": "Tin",
+    "description": "Tin is not a very good material on its own. But it has some use.",
+    "ilvl": 5,
+    "rarity": 3,
+    "basePrice": 50,
+    "iconId": 7
+  },
+  {
+    "id": 4,
+    "name": "Aluminum",
+    "description": "Aluminum is a very light, but very resistant metal if properly melted !",
+    "ilvl": 10,
+    "rarity": 4,
+    "basePrice": 75,
+    "iconId": 3
+  },
+  {
+    "id": 5,
+    "name": "Titanium",
+    "description": "Titanium is one of the most solid metals on this planet. It can only melt at very high temperatures.",
+    "ilvl": 10,
+    "rarity": 5,
+    "basePrice": 75,
+    "iconId": 1
+  },
+  {
+    "id": 6,
+    "name": "Diamond",
+    "description": "Diamond is the most solid thing that exists. Used properly, it can give a weapon some great strength !",
+    "ilvl": 10,
+    "rarity": 6,
+    "basePrice": 75,
+    "iconId": 23
+  }
+]

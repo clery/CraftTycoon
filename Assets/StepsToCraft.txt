@@ -1,0 +1,41 @@
+- Acheter les matériaux
+- Fondre le métal en lingots
+
+--- Epee ---
+Créer la lame
+Créer la garde
+Créer le pommeau
+------------
+
+- Assemblage
+- Esthétique/Finalisation/Nommage (si possible)
+- Vente aux enchère
+
+
+Achat des matériaux
+- Un simple menu avec une liste de matériaux et leur prix (le prix doit changer plus ou moins aléatoirement)
+
+Fonte des métaux
+- On choisit certains matériaux
+- Chaque matériau influence la qualité du lingot obtenu (cuir baisse la qualité, platine la monte)
+- On fait fondre les matériaux pendant un certain temps. Le temps idéal dépend des matériaux utilisés.
+- On récupère un/plusieurs lingot(s)
+
+Créer un objet
+- On choisit le type d'objet dans une liste
+- On choisit les objets pour le créer dans la liste de matériaux (lingots, cuir, ...)
+- Après avoir utilisé un objet dans un craft, on peut avoir une indication sur son utilité dans le craft
+- L'xp dans ce type de craft s'améliore (plus ou moins en fonction de la qualité de l'objet créé)
+
+Assembler des pièces
+- On choisit un type d'arme
+- On met les éléments que l'on veut combiner
+- La qualité de l'arme est déterminée par la qualité des composants et l'exp sur ce type d'arme
+
+Esthétique/Finalisation/Nommage
+- On peut ajouter des éléments cosmétiques (gemmes, gravures, dessins en or) sur l'arme
+- Enfin, si l'arme est de qualité suffisante, on peut la nommer
+
+Vente aux enchères
+- L'arme est mise aux enchère a un prix de base (dépendant de sa qualité et du renom du crafteur)
+- Ensuite, le prix de vente monte plus ou moins aléatoirement

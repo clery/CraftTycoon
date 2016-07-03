@@ -1,0 +1,9 @@
+This is where you will buy base materials
+
+There must be a list of items
+Each item must display its informations
+Each item must also display how much of them you already own
+You must be able to buy different quantities of the material (x1, x10, x100, MAX)
+
+Each item is on one line, if you click it, it expands and you see all the info and buying options
+

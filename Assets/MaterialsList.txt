@@ -1,0 +1,17 @@
+Métaux:
+Cuivre
+Etain
+Bronze
+Fer
+Carbonne
+Acier
+Argent
+Or
+Platine
+Diamand
+Titane
+...
+
+Autres:
+Cuir (pour le pommeau)
+Charbon
